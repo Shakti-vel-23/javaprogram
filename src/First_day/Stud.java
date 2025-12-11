@@ -1,3 +1,5 @@
+package First_day;
+
 import java.util.*;
 public class Stud {
     public static void main(String[] args) {

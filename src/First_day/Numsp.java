@@ -1,8 +1,11 @@
+package First_day;
+
 import java.util.*;
-public class Vascii {
+public class Numsp {
     public static void main(String[] args){
         Scanner input = new Scanner(System.in);
         int a = input.nextInt();
-        System.out.println((char)a);
+        int b = input.nextInt();
+        System.out.println(a + " " + b);
     }
 }

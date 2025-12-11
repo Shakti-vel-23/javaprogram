@@ -1,3 +1,5 @@
+package First_day;
+
 import java.util.Scanner;
 public class Msg {
     public static void main(String[] args) {
