@@ -1,4 +1,4 @@
-package Second_day;
+package Operators;
 import java.util.*;
 public class Sum {
     public static void main(String[] args) {

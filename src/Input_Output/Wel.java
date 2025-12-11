@@ -1,4 +1,4 @@
-package First_day;
+package Input_Output;
 
 class Wel {
     public static void main(String args[]){

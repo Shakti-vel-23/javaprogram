@@ -1,4 +1,4 @@
-package First_day;
+package Input_Output;
 
 public class Size {
     public static void main(String[] args) {

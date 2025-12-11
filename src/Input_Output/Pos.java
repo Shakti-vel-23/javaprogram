@@ -1,10 +1,10 @@
-package First_day;
+package Input_Output;
 
 import java.util.*;
-public class Hex {
+public class Pos {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
         int a = input.nextInt();
-        System.out.printf("Your given integer is:%X" , a);
+        System.out.println("+" + a);
     }
 }

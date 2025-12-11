@@ -1,0 +1,11 @@
+package Operators;
+import java.util.*;
+public class Quotient {
+    public static void main(String[] args) {
+        Scanner a  = new Scanner(System.in);
+        int n = a.nextInt();
+        int m = a.nextInt();
+        int c = n/m;
+        System.out.println(c);
+    }
+}

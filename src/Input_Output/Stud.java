@@ -1,4 +1,4 @@
-package First_day;
+package Input_Output;
 
 import java.util.*;
 public class Stud {
