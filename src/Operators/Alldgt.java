@@ -1,5 +1,6 @@
 package Operators;
-import java.util.*;
+
+import java.util.Scanner;
 public class Alldgt {
     public static void main(String[] args) {
         Scanner a = new Scanner(System.in);

@@ -1,5 +1,5 @@
 package Operators;
-import java.util.Scanner;
+
 public class Power {
     public static void main(String[] args) {
         int n = 32;  // change this number to test
