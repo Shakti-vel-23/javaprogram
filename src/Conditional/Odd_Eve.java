@@ -1,5 +1,6 @@
-package Decision_Making;
+package Conditional;
 import java.util.Scanner;
+
 public class Odd_Eve {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
