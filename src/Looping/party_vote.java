@@ -10,13 +10,14 @@ public class party_vote {
         System.out.println("Enter 2 for DMK: ");
         System.out.println("Enter 3 for ADMK: ");
         Scanner a = new Scanner(System.in);
-        int vote = a.nextInt();
 
         int tvk = 0;
         int dmk = 0;
         int admk = 0;
 
-        while(s!=0){
+        while(true){
+            System.out.println("Enter Your VOTE to Exit Press -1 :");
+            int vote = a.nextInt();
             if(vote==1){
                 tvk++;
                 System.out.println("Voted for TVK");
